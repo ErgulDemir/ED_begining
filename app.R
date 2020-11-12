@@ -1,4 +1,4 @@
-libary(shiny)
+library(shiny)
 
 ui <- fluidPage(
 
